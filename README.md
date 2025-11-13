@@ -124,7 +124,4 @@ All request/response contracts are validated via Zod schemas under `src/lib/vali
 - Issues and enhancements: track via your connected Git hosting provider
 
 Happy tailoring ✨
-# Resume-Parser
-# Resume-Parser
-# Resume-Parser
-# AI-JOJO
+
