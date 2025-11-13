@@ -126,3 +126,4 @@ All request/response contracts are validated via Zod schemas under `src/lib/vali
 Happy tailoring ✨
 # Resume-Parser
 # Resume-Parser
+# Resume-Parser
